@@ -1,5 +1,5 @@
 {
-    "token": "ODg4MzU3Nzc4NDUwNzEwNTI4.YURhpw.WSqI1GUNv52qR0Z3Pg5SoYmIKC4",
+    "token": "ODg4MzU3Nzc4NDUwNzEwNTI4.YURhpw.Kmj9kkA3mweZQPs6LD-DKcku8oM",
     "prefix": "!",
-    "mongooseConnectionString": ""
+    "mongooseConnectionString": "mongodb+srv://eris:Erjs@light-cluster.xtt0s.mongodb.net/Xync"
 }
